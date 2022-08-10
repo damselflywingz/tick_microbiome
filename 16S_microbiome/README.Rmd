@@ -95,7 +95,7 @@ mmv < patterns_update.txt
 <!-- FILTER DENOISE -->
 ## Filter Denoise
 
-Before proceeding please see [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt](github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt) as some of the libraries were not sequenced and need to be removed prior to running the pipeline. These files need to be moved into a "Not_sequenced folder".
+Before proceeding please see [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt](https://github.com/damselflywingz/tick_microbiome/blob/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt)](github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt) as some of the libraries were not sequenced and need to be removed prior to running the pipeline. These files need to be moved into a "Not_sequenced folder".
 
 Working with demultiplexed paired-end libraries, the DADA2 processing follows the tutorial at <a href="https://benjjneb.github.io/dada2/index.html" target="_blank">benjjneb.github.io/dada2/tutorial </a> for the most part. See the link for more information and resources.
 
