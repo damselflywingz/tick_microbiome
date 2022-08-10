@@ -102,13 +102,13 @@ Working with demultiplexed paired-end libraries, the DADA2 processing follows th
 
 There are two separate R scripts:
 <ol>
-    <li>[20220420_A_B_C_job-rscript10.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/tree/main/script/DADA_4_slurm/20220420_A_B_C_job-rscript10.R); and </li>
-    <li>[20220421_A_C_job-rscript11.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/tree/main/script/DADA_4_slurm/20220421_A_C_job-rscript11.R).</li>
+    <li>[20220420_A_B_C_job-rscript10.R](https://github.com/damselflywingz/tick_microbiome/blob/main/16S_microbiome/script/DADA_4_slurm/20220420_A_B_C_job-rscript10.R); and </li>
+    <li>[20220421_A_C_job-rscript11.R](https://github.com/damselflywingz/tick_microbiome/blob/main/16S_microbiome/script/DADA_4_slurm/20220421_A_C_job-rscript11.R).</li>
     </ol>
 
-The script requires the RDP training set and species-specific reference databases to be available in the "reference" directory, see: [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/reference](github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/reference/). There are other reference test sets available <a href="https://benjjneb.github.io/dada2/training.html" target="_blank">benjjneb.github.io/dada2/training </a>for more options and the latest versions of the training sets. 
+The script requires the RDP training set and species-specific reference databases to be available in the "reference" directory, see: [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/reference](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/reference). There are other reference test sets available <a href="https://benjjneb.github.io/dada2/training.html" target="_blank">benjjneb.github.io/dada2/training </a>for more options and the latest versions of the training sets. 
 
-The DADA2 R scripts can be submitted using  [20220422_torun.slurm](https://github.com/damselflywingz/tick_microbiome/tree/main/script/DADA_4_slurm/20220422_torun.slurm)
+The DADA2 R scripts can be submitted using  [20220422_torun.slurm](https://github.com/damselflywingz/tick_microbiome/blob/main/16S_microbiome/script/DADA_4_slurm/20220422_torun.slurm)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
  
@@ -140,7 +140,7 @@ Following the decontaminate step (see above), the statistical analysis was compl
 <!-- BLAST/ PHYLOGENY -->
 ## BLAST/ Phylogeny
 
-Local BLAST search of the GenBank's 16S reference database and phylogenetic analysis of selected V4 16S rDNA sequences from the tick microbiome were completed by following the BlastPhylo script created by David Huang. [BlastPhylo_v20220418.R](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/BlastPhylo_v20221418.R). See the script for more detailed information.
+Local BLAST search of the GenBank's 16S reference database and phylogenetic analysis of selected V4 16S rDNA sequences from the tick microbiome were completed by following the BlastPhylo script created by David Huang. [BlastPhylo_v20220418.R](https://github.com/damselflywingz/tick_microbiome/blob/main/16S_microbiome/script/BlastPhylo_v20220418.R). See the script for more detailed information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,3 +154,4 @@ Amber Paulson - <a href="https://twitter.com/dragonflywingz" target="_blank">@Dr
 Project Link: [https://github.com/damselflywingz/tick_microbiome](https://github.com/damselflywingz/tick_microbiome)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
