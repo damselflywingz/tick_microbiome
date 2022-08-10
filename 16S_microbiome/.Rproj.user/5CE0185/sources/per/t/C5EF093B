@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638668842066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1198687601",
+    "id" : "C5EF093B",
+    "lastKnownWriteTime" : 1638463043,
+    "last_content_update" : 1638463043,
+    "path" : "E:/Ticks/Papers/Preliminary_16S_RNAseq_I_scapularis/August2021_microbiome/David_script_Nov2021/BlastPhylo16Nov21.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "91,53",
+        "scrollLine" : "74"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
