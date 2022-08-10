@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1648853667670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2152169136",
+    "id" : "AA6B2096",
+    "lastKnownWriteTime" : 1660138293,
+    "last_content_update" : 1660138293682,
+    "path" : "E:/Ticks/Papers/Preliminary_16S_RNAseq_I_scapularis/22020810_PrePrint_tick_microbiome_pipeline/tick_microbiome/16S_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R",
+    "project_path" : "script/16S_decontam_analysis_Paulson_v20220401.R",
+    "properties" : {
+        "cursorPosition" : "9,27",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
