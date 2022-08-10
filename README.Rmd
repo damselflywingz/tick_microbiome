@@ -77,11 +77,11 @@ Since the last two steps of this pipeline (i.e., decontaminating and statistical
 <!-- DEMULTIPLEX -->
 ## Demultiplex
 
-Starting with the raw non-demultiplexed sequence data [SRR17194087](https://www.ncbi.nlm.nih.gov/sra/SRR17194087), the non-interleaved raw reads must be sorted with barcodes and spacers in combinatorial format using Cutadapt. All the required files are located in the [github.com/damselflywingz/tick_microbiome/cutadapt/](https://github.com/damselflywingz/tick_microbiome/cutadapt/) directory, please see there for more information.
+Starting with the raw non-demultiplexed sequence data [SRR17194087](https://www.ncbi.nlm.nih.gov/sra/SRR17194087), the non-interleaved raw reads must be sorted with barcodes and spacers in combinatorial format using Cutadapt. All the required files are located in the [github.com/damselflywingz/tick_microbiome/tree/main/cutadapt/](https://github.com/damselflywingz/tick_microbiome/tree/main/cutadapt/) directory, please see there for more information.
 
 To install Cutadapt follow the instructions to create a Conda environment, and then activate the cutadapt environment - [cutadapt.readthedocs.io/en/stable/installation](https://cutadapt.readthedocs.io/en/stable/installation.html).
 
-The task was submitted through the SLURM scheduler (see: [cutadapt_demultiplex.slurm](https://github.com/damselflywingz/tick_microbiome/cutadapt/cutadapt_demultiplex.slurm)).
+The task was submitted through the SLURM scheduler (see: [cutadapt_demultiplex.slurm](https://github.com/damselflywingz/tick_microbiome/tree/main/cutadapt/cutadapt_demultiplex.slurm)).
 
 After the job is complete the mmv command is used to batch rename the files
 
@@ -95,20 +95,20 @@ mmv < patterns_update.txt
 <!-- FILTER DENOISE -->
 ## Filter Denoise
 
-Before proceeding please see [github.com/damselflywingz/tick_microbiome/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt](github.com/damselflywingz/tick_microbiome/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt) as some of the libraries were not sequenced and need to be removed prior to running the pipeline. These files need to be moved into a "Not_sequenced folder".
+Before proceeding please see [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt](github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/DADA_4_slurm/Not_sequenced_note.txt) as some of the libraries were not sequenced and need to be removed prior to running the pipeline. These files need to be moved into a "Not_sequenced folder".
 
 Working with demultiplexed paired-end libraries, the DADA2 processing follows the tutorial at <a href="https://benjjneb.github.io/dada2/index.html" target="_blank">benjjneb.github.io/dada2/tutorial </a> for the most part. See the link for more information and resources.
 
 
 There are two separate R scripts:
 <ol>
-    <li>[20220420_A_B_C_job-rscript10.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/script/DADA_4_slurm/20220420_A_B_C_job-rscript10.R); and </li>
-    <li>[20220421_A_C_job-rscript11.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/script/DADA_4_slurm/20220421_A_C_job-rscript11.R).</li>
+    <li>[20220420_A_B_C_job-rscript10.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/tree/main/script/DADA_4_slurm/20220420_A_B_C_job-rscript10.R); and </li>
+    <li>[20220421_A_C_job-rscript11.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/tree/main/script/DADA_4_slurm/20220421_A_C_job-rscript11.R).</li>
     </ol>
 
-The script requires the RDP training set and species-specific reference databases to be available in the "reference" directory, see: [github.com/damselflywingz/tick_microbiome/16S_microbiome/reference](github.com/damselflywingz/tick_microbiome/16S_microbiome/reference/). There are other reference test sets available <a href="https://benjjneb.github.io/dada2/training.html" target="_blank">benjjneb.github.io/dada2/training </a>for more options and the latest versions of the training sets. 
+The script requires the RDP training set and species-specific reference databases to be available in the "reference" directory, see: [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/reference](github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/reference/). There are other reference test sets available <a href="https://benjjneb.github.io/dada2/training.html" target="_blank">benjjneb.github.io/dada2/training </a>for more options and the latest versions of the training sets. 
 
-The DADA2 R scripts can be submitted using  [20220422_torun.slurm](https://github.com/damselflywingz/tick_microbiome/script/DADA_4_slurm/20220422_torun.slurm)
+The DADA2 R scripts can be submitted using  [20220422_torun.slurm](https://github.com/damselflywingz/tick_microbiome/tree/main/script/DADA_4_slurm/20220422_torun.slurm)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
  
@@ -118,11 +118,11 @@ The DADA2 R scripts can be submitted using  [20220422_torun.slurm](https://githu
 
 The decontamination step (and the following statistical analysis step) were completed locally with RStudio Version 1.2.5033 and R version 4.1.0.
 
-First download the entire [github.com/damselflywingz/tick_microbiome/16S_microbiome/](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/) directory and contents.
+First download the entire [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/) directory and contents.
 
-Then load the [16S_microbiome.Rproj](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/16S_microbiome.Rproj) in RStudio. 
+Then load the [16S_microbiome.Rproj](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/16S_microbiome.Rproj) in RStudio. 
 
-Then open the R script [github.com/damselflywingz/tick_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R). 
+Then open the R script [github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -131,7 +131,7 @@ Then open the R script [github.com/damselflywingz/tick_microbiome/script/16S_dec
 <!-- STATISTCAL ANALYSIS -->
 ## Statistical Analysis
 
-Following the decontaminate step (see above), the statistical analysis was completed by continuing through the [16S_decontam_analysis_Paulson_v20220401.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R) script. See the script for more detailed information.
+Following the decontaminate step (see above), the statistical analysis was completed by continuing through the [16S_decontam_analysis_Paulson_v20220401.R](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/16S_decontam_analysis_Paulson_v20220401.R) script. See the script for more detailed information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -140,7 +140,7 @@ Following the decontaminate step (see above), the statistical analysis was compl
 <!-- BLAST/ PHYLOGENY -->
 ## BLAST/ Phylogeny
 
-Local BLAST search of the GenBank's 16S reference database and phylogenetic analysis of selected V4 16S rDNA sequences from the tick microbiome were completed by following the BlastPhylo script created by David Huang. [BlastPhylo_v20220418.R](https://github.com/damselflywingz/tick_microbiome/16S_microbiome/script/BlastPhylo_v20221418.R). See the script for more detailed information.
+Local BLAST search of the GenBank's 16S reference database and phylogenetic analysis of selected V4 16S rDNA sequences from the tick microbiome were completed by following the BlastPhylo script created by David Huang. [BlastPhylo_v20220418.R](https://github.com/damselflywingz/tick_microbiome/tree/main/16S_microbiome/script/BlastPhylo_v20221418.R). See the script for more detailed information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
