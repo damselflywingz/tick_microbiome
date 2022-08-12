@@ -14,9 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div align="center">
   <h3 align="center">Tick_microbiome README </h3>
   <p align="center">
-  
-    [github.com/damselflywingz/tick_microbiome/](https://github.com/damselflywingz/tick_microbiome)
-    
+    <a href="github.com/damselflywingz/tick_microbiome/">https://github.com/damselflywingz/tick_microbiome</a>
     <br />
   </p>
 </div>
