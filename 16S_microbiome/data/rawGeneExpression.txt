@@ -1,0 +1,403 @@
+	38F	38M	42F	45F					
+[Mycobacterium] stephanolepidis;elongation factor Tu [Mycolicibacterium sp. P1-18];TRINITY_DN6523_c0_g1_i1	0	1	1	0					
+Anaplasma phagocytophilum;hypothetical protein [Anaplasma phagocytophilum];TRINITY_DN303_c0_g1_i1	0	0	0	5					
+Anaplasma phagocytophilum;hypothetical protein [Anaplasma phagocytophilum];TRINITY_DN6359_c0_g1_i1	0	0	8	0					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01338 [Anaplasma phagocytophilum];TRINITY_DN861_c0_g1_i2	1	5	11	5					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01347 [Anaplasma phagocytophilum];TRINITY_DN1653_c0_g1_i1	1	0	1	6					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01347 [Anaplasma phagocytophilum];TRINITY_DN1758_c1_g2_i2	0	0	9	2					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01375 [Anaplasma phagocytophilum];TRINITY_DN1539_c0_g2_i1	0	1	0	0					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01401 [Anaplasma phagocytophilum];TRINITY_DN349_c0_g1_i1	0	0	1	0					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01401 [Anaplasma phagocytophilum];TRINITY_DN4165_c0_g1_i1	0	0	4	0					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01449 [Anaplasma phagocytophilum];TRINITY_DN2755_c0_g1_i1	0	0	1	1					
+Anaplasma phagocytophilum;hypothetical protein ANAPC5_01497 [Anaplasma phagocytophilum];TRINITY_DN5232_c0_g1_i1	2	0	0	0					
+Anaplasma phagocytophilum;hypothetical protein ANAPRD1_01206 [Anaplasma phagocytophilum];TRINITY_DN4176_c0_g1_i1	1	0	2	0					
+Anaplasma phagocytophilum;hypothetical protein ANAPRD1_01258 [Anaplasma phagocytophilum];TRINITY_DN2953_c0_g1_i1	1	0	2	0					
+Anaplasma phagocytophilum;hypothetical protein partial [Anaplasma phagocytophilum];TRINITY_DN4633_c0_g1_i1	0	0	1	0					
+Anaplasma phagocytophilum;hypothetical protein partial [Anaplasma phagocytophilum];TRINITY_DN681_c0_g1_i1	0	0	0	0					
+Anaplasma phagocytophilum;hypothetical protein partial [Anaplasma phagocytophilum];TRINITY_DN681_c0_g1_i2	0	0	0	0					
+Anaplasma phagocytophilum;hypothetical protein partial [Anaplasma phagocytophilum];TRINITY_DN849_c0_g1_i1	0	2	0	0					
+bacterium endosymbiont of Escarpia laminata;hypothetical protein DJ031_00205 partial [bacterium endosymbiont of Escarpia laminata];TRINITY_DN3018_c0_g1_i1	0	0	1	0					
+Blastomonas sp. CCH5-A3;FMN-binding glutamate synthase family protein [Blastomonas sp. CCH5-A3];TRINITY_DN4616_c0_g1_i1	1	0	0	1					
+Borrelia miyamotoi;elongation factor Tu partial [Borreliella garinii];TRINITY_DN3498_c0_g1_i1	0	1	0	0					
+Borreliella burgdorferi;0;TRINITY_DN3240_c0_g1_i1	0	0	0	4					
+Borreliella burgdorferi;hypothetical protein L144_00245 [Borreliella burgdorferi CA382];TRINITY_DN2957_c0_g1_i1	0	0	0	3					
+Borreliella burgdorferi;MULTISPECIES: 30S ribosomal protein S12 [Borreliella];TRINITY_DN7413_c0_g1_i1	0	0	0	2					
+Borreliella burgdorferi;outer surface protein A partial [Borreliella burgdorferi];TRINITY_DN2707_c0_g1_i1	0	0	0	3					
+Borreliella burgdorferi;outer surface protein B (ospB) (plasmid) [Borreliella burgdorferi];TRINITY_DN6660_c0_g1_i1	1	0	0	1					
+Clostridia bacterium k32;hypothetical protein EYS13_17815 partial [Clostridia bacterium k32];TRINITY_DN306_c1_g2_i1	0	1	1	0					
+Curtobacterium pusillum;0;TRINITY_DN2606_c0_g1_i1	1	0	0	0					
+Gordonia sp. MMS17-SY73;Uncharacterised protein [Mycobacteroides abscessus subsp. abscessus];TRINITY_DN297_c0_g1_i1	3	0	0	0					
+Methylorubrum extorquens;elongation factor Tu [Phyllobacterium salinisoli];TRINITY_DN5190_c0_g1_i1	0	0	0	1					
+Mycolicibacterium rutilum;hypothetical protein MAP_1975 [Mycobacterium avium subsp. paratuberculosis K-10];TRINITY_DN1266_c0_g1_i1	0	0	2	0					
+Rhodobacter sp. LPB142;0;TRINITY_DN4800_c0_g1_i1	2	0	0	0					
+Rhodococcus rhodochrous;Chaperone protein DnaK (Hsp 70) [Mycobacteroides abscessus];TRINITY_DN2690_c0_g1_i1	1	0	0	0					
+Rhodococcus ruber;0;TRINITY_DN3267_c0_g1_i1	1	0	0	0					
+Rickettsia buchneri;0;TRINITY_DN464_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase [Rickettsia monacensis];TRINITY_DN2804_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;30S ribosomal protein S1 [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN5552_c0_g1_i1	0	0	3	1					
+Rickettsia buchneri;30S ribosomal protein S1 [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN6730_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;30S ribosomal protein S21 [Rickettsia buchneri];TRINITY_DN3242_c0_g1_i1	1	0	6	1					
+Rickettsia buchneri;30S ribosomal protein S4 [Rickettsia felis URRWXCal2];TRINITY_DN7060_c0_g1_i1	0	1	7	7					
+Rickettsia buchneri;30S ribosomal protein S7 [Rickettsia buchneri];TRINITY_DN6942_c0_g1_i1	0	0	1	4					
+Rickettsia buchneri;50S ribosomal protein L19 [Rickettsia asembonensis];TRINITY_DN5254_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;50S ribosomal protein L22 [Rickettsia sp. Tenjiku01];TRINITY_DN3863_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;50S ribosomal protein L4 [Rickettsia monacensis];TRINITY_DN2878_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;60 kDa chaperonin [Rickettsia massiliae MTU5];TRINITY_DN5187_c0_g1_i1	4	0	18	19					
+Rickettsia buchneri;AAA family ATPase [Rickettsia buchneri];TRINITY_DN3098_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;AAA family ATPase [Rickettsia buchneri];TRINITY_DN5952_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;AAA family ATPase [Rickettsia buchneri];TRINITY_DN7175_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;AAA family ATPase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6585_c0_g1_i1	0	0	0	0					
+Rickettsia buchneri;AAA family ATPase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN7236_c0_g1_i1	0	0	3	0					
+Rickettsia buchneri;AAA family ATPase partial [Rickettsia montanensis];TRINITY_DN3238_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;acetyltransferase family protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN3300_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;antigenic heat-stable 120 kDa protein partial [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN5440_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;antigenic heat-stable protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN2666_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;asmA-like C-terminal region family protein [Rickettsia argasii T170-B];TRINITY_DN6908_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA [Rickettsia amblyommatis];TRINITY_DN2924_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;ATP synthase alpha chain [Rickettsia conorii str. Malish 7];TRINITY_DN3089_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;ATP synthase alpha subunit partial [Rickettsia australis];TRINITY_DN4321_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;ATP-dependent metallopeptidase FtsH/Yme1/Tma family protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN3670_c0_g1_i1	0	0	7	1					
+Rickettsia buchneri;ATP-dependent protease La [Rickettsia montanensis str. OSU 85-930];TRINITY_DN6596_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;autotransporter outer membrane beta-barrel domain-containing protein [Rickettsia buchneri];TRINITY_DN3753_c0_g1_i1	1	0	16	27					
+Rickettsia buchneri;autotransporter outer membrane beta-barrel domain-containing protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN3490_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;Bax inhibitor-1/YccA family protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN6148_c0_g1_i1	0	0	0	3					
+Rickettsia buchneri;bifunctional (p)ppGpp synthetase/guanosine-3'5'-bis(diphosphate) 3'-pyrophosphohydrolase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3461_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;bifunctional (p)ppGpp synthetase/guanosine-3'5'-bis(diphosphate) 3'-pyrophosphohydrolase partial [Rickettsia buchneri];TRINITY_DN4643_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;CarD family transcriptional regulator [Rickettsia asembonensis];TRINITY_DN7365_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;cell surface antigen [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3648_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;cell surface antigen rOmp A [Rickettsia buchneri];TRINITY_DN6394_c0_g1_i1	0	1	1	1					
+Rickettsia buchneri;chitin binding domain protein [Rickettsia hoogstraalii str. RCCE3];TRINITY_DN5023_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;Cold shock-like protein [Rickettsia massiliae MTU5];TRINITY_DN3470_c0_g1_i1	0	0	3	3					
+Rickettsia buchneri;conserved hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3299_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;conserved hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3500_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;conserved hypothetical protein partial [Ixodes scapularis];TRINITY_DN4794_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;coupling protein TraD putative partial [Ixodes scapularis];TRINITY_DN2833_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;DEAD/DEAH box helicase family protein [Rickettsia amblyommatis str. Darkwater];TRINITY_DN4939_c0_g1_i1	0	0	3	0					
+Rickettsia buchneri;dihydrolipoyl dehydrogenase [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN6367_c0_g1_i1	0	0	1	7					
+Rickettsia buchneri;DNA topoisomerase (ATP-hydrolyzing) subunit A [Rickettsia buchneri];TRINITY_DN6003_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;DNA topoisomerase (ATP-hydrolyzing) subunit B [Rickettsia buchneri];TRINITY_DN3030_c0_g1_i1	0	0	1	4					
+Rickettsia buchneri;DNA topoisomerase (ATP-hydrolyzing) subunit B [Rickettsia rickettsii];TRINITY_DN3993_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;DNA topoisomerase 4 subunit B [Rickettsia buchneri];TRINITY_DN7563_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;DNA-binding protein HU [Rickettsia japonica YH];TRINITY_DN4477_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;DNA-damage-inducible protein J [Rickettsia massiliae MTU5];TRINITY_DN4111_c0_g1_i1	1	0	4	7					
+Rickettsia buchneri;DNA-directed RNA polymerase subunit alpha [Rickettsia monacensis];TRINITY_DN5601_c0_g1_i1	1	0	0	0					
+Rickettsia buchneri;DUF2608 domain-containing protein [Rickettsia buchneri];TRINITY_DN6893_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;DUF2610 domain-containing protein [Rickettsia monacensis];TRINITY_DN5367_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;DUF2673 domain-containing protein [Rickettsia buchneri];TRINITY_DN7458_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;efflux RND transporter periplasmic adaptor subunit [Rickettsia amblyommatis];TRINITY_DN4644_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;Elongation factor EF-Tu [Rickettsia massiliae MTU5];TRINITY_DN2774_c0_g1_i1	0	0	4	2					
+Rickettsia buchneri;elongation factor G [Rickettsia buchneri];TRINITY_DN5161_c0_g1_i1	0	0	3	8					
+Rickettsia buchneri;Ferredoxin [Rickettsia massiliae MTU5];TRINITY_DN4386_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;Folylpolyglutamate synthase [Rickettsia buchneri];TRINITY_DN6948_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;glycine/serine hydroxymethyltransferase putative partial [Ixodes scapularis];TRINITY_DN4337_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;GTP-specific succinyl-CoA synthetase beta subunit putative [Ixodes scapularis];TRINITY_DN6472_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;heat shock protein putative partial [Ixodes scapularis];TRINITY_DN4127_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;helix-turn-helix domain-containing protein partial [Rickettsia buchneri];TRINITY_DN5501_c0_g1_i1	1	0	4	1					
+Rickettsia buchneri;helix-turn-helix transcriptional regulator [Rickettsia monacensis];TRINITY_DN5448_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;helix-turn-helix transcriptional regulator [Rickettsia monacensis];TRINITY_DN6678_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;hsp70 family protein [Rickettsia amblyommatis str. Darkwater];TRINITY_DN4489_c0_g1_i1	1	2	10	8					
+Rickettsia buchneri;hsp70 family protein [Rickettsia amblyommatis str. Darkwater];TRINITY_DN7049_c0_g1_i1	0	0	1	6					
+Rickettsia buchneri;Hsp70 putative partial [Ixodes scapularis];TRINITY_DN3505_c0_g1_i1	0	0	7	5					
+Rickettsia buchneri;hypothetical protein [Candidatus Rickettsia colombianensi];TRINITY_DN292_c0_g5_i1	2	0	2	3					
+Rickettsia buchneri;hypothetical protein [Rickettsia buchneri];TRINITY_DN2056_c0_g1_i1	2	0	39	21					
+Rickettsia buchneri;hypothetical protein [Rickettsia buchneri];TRINITY_DN6124_c0_g1_i1	0	0	4	3					
+Rickettsia buchneri;hypothetical protein [Rickettsia buchneri];TRINITY_DN6917_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;hypothetical protein [Rickettsia buchneri];TRINITY_DN7200_c0_g1_i1	0	0	4	2					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN225_c0_g2_i1	1	0	6	4					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN5760_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2828_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2974_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3725_c0_g1_i1	0	0	7	7					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN484_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN798_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;hypothetical protein [Rickettsia helvetica];TRINITY_DN464_c0_g2_i1	1	0	3	5					
+Rickettsia buchneri;hypothetical protein [Rickettsia monacensis];TRINITY_DN5387_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;hypothetical protein [Rickettsia tamurae];TRINITY_DN7702_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;hypothetical protein H374_8280 [Rickettsia prowazekii str. NMRC Madrid E];TRINITY_DN7090_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;hypothetical protein RAMDARK_1484 [Rickettsia amblyommatis str. Darkwater];TRINITY_DN3976_c0_g1_i1	3	1	6	7					
+Rickettsia buchneri;hypothetical protein REIP_0883 [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN3349_c0_g1_i1	0	0	3	0					
+Rickettsia buchneri;hypothetical protein REIP_1025 [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN3362_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;hypothetical protein REIS_0028 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN4727_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;hypothetical protein REIS_1381 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN292_c0_g1_i1	1	0	5	1					
+Rickettsia buchneri;hypothetical protein REIS_1381 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN292_c0_g1_i2	0	0	0	1					
+Rickettsia buchneri;hypothetical protein REISMN_02500 [Rickettsia buchneri];TRINITY_DN4262_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;hypothetical protein REISMN_04290 [Rickettsia buchneri];TRINITY_DN5068_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;hypothetical protein REISMN_04295 [Rickettsia buchneri];TRINITY_DN3596_c0_g1_i1	0	0	4	1					
+Rickettsia buchneri;hypothetical protein REISMN_05125 [Rickettsia buchneri];TRINITY_DN3697_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;hypothetical protein REISMN_06525 [Rickettsia buchneri];TRINITY_DN2905_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;hypothetical protein REISMN_07345 [Rickettsia buchneri];TRINITY_DN5094_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;hypothetical protein RFEPED_0940 [Rickettsia felis str. Pedreira];TRINITY_DN311_c0_g1_i1	1	0	1	0					
+Rickettsia buchneri;hypothetical protein RMONA_7135 [Rickettsia monacensis IrR/Munich];TRINITY_DN292_c0_g4_i1	1	1	1	0					
+Rickettsia buchneri;hypothetical protein RTTH1527_02330 [Rickettsia typhi str. TH1527];TRINITY_DN2585_c0_g1_i1	0	0	36	78					
+Rickettsia buchneri;iron-sulfur protein Isa2 putative partial [Ixodes scapularis];TRINITY_DN5093_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;IS3 family transposase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3588_c0_g1_i1	0	0	0	3					
+Rickettsia buchneri;IS630 family transposase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6958_c0_g1_i1	0	0	4	6					
+Rickettsia buchneri;IS982 family transposase [Rickettsia rhipicephali];TRINITY_DN5692_c0_g1_i1	0	0	1	3					
+Rickettsia buchneri;isoleucine--tRNA ligase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6902_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;isoleucyl-tRNA synthetase putative [Ixodes scapularis];TRINITY_DN332_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;isoleucyl-tRNA synthetase putative [Ixodes scapularis];TRINITY_DN4097_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;leucine--tRNA ligase partial [Candidatus Rickettsia colombianensi];TRINITY_DN3339_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;leucyl aminopeptidase [Rickettsia buchneri];TRINITY_DN5697_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;Lipoyl synthase [Rickettsia buchneri];TRINITY_DN4240_c0_g1_i1	0	0	0	0					
+Rickettsia buchneri;LPS export ABC transporter ATP-binding protein [Rickettsia monacensis];TRINITY_DN4243_c0_g1_i1	0	0	0	0					
+Rickettsia buchneri;methyltransferase type 11 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2856_c0_g1_i1	1	0	2	5					
+Rickettsia buchneri;MFS transporter [Rickettsia monacensis];TRINITY_DN3559_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;molecular chaperone DnaJ [Rickettsia felis];TRINITY_DN3230_c0_g1_i1	1	0	0	1					
+Rickettsia buchneri;molecular chaperone putative partial [Ixodes scapularis];TRINITY_DN5620_c0_g1_i1	0	1	0	0					
+Rickettsia buchneri;MULTISPECIES: 16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH [spotted fever group];TRINITY_DN2664_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S1 [spotted fever group];TRINITY_DN6797_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S10 [spotted fever group];TRINITY_DN6631_c0_g1_i1	1	0	1	0					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S11 [Rickettsia];TRINITY_DN6906_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S13 [spotted fever group];TRINITY_DN5978_c0_g1_i1	0	0	3	1					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S14 [Rickettsia];TRINITY_DN7642_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S16 [spotted fever group];TRINITY_DN5111_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S2 [spotted fever group];TRINITY_DN4651_c0_g1_i1	0	0	1	3					
+Rickettsia buchneri;MULTISPECIES: 30S ribosomal protein S5 [spotted fever group];TRINITY_DN5115_c0_g1_i1	0	0	3	3					
+Rickettsia buchneri;MULTISPECIES: 3-deoxy-8-phosphooctulonate synthase [spotted fever group];TRINITY_DN7451_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: 50S ribosomal protein L11 [Rickettsia];TRINITY_DN2775_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: 50S ribosomal protein L16 [Rickettsia];TRINITY_DN6858_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: 50S ribosomal protein L17 [spotted fever group];TRINITY_DN3503_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: 50S ribosomal protein L20 [spotted fever group];TRINITY_DN4422_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: 50S ribosomal protein L21 [Rickettsia];TRINITY_DN2601_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;MULTISPECIES: 50S ribosomal protein L32 [Rickettsia];TRINITY_DN3534_c0_g1_i1	0	0	0	0					
+Rickettsia buchneri;MULTISPECIES: 7-carboxy-7-deazaguanine synthase QueE [spotted fever group];TRINITY_DN4941_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: acyl-CoA desaturase [spotted fever group];TRINITY_DN6080_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;MULTISPECIES: ADP-forming succinate--CoA ligase subunit beta [spotted fever group];TRINITY_DN5323_c0_g1_i1	1	0	3	2					
+Rickettsia buchneri;MULTISPECIES: alanine--tRNA ligase [spotted fever group];TRINITY_DN7380_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: autotransporter domain-containing protein [spotted fever group];TRINITY_DN3999_c0_g1_i1	1	0	3	3					
+Rickettsia buchneri;MULTISPECIES: autotransporter domain-containing protein [spotted fever group];TRINITY_DN4979_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;MULTISPECIES: autotransporter domain-containing protein [spotted fever group];TRINITY_DN6661_c0_g1_i1	0	0	3	5					
+Rickettsia buchneri;MULTISPECIES: autotransporter domain-containing protein [spotted fever group];TRINITY_DN7006_c0_g1_i1	0	0	6	10					
+Rickettsia buchneri;MULTISPECIES: beta-ketoacyl-ACP synthase II [spotted fever group];TRINITY_DN5777_c0_g1_i1	1	0	0	0					
+Rickettsia buchneri;MULTISPECIES: bifunctional folylpolyglutamate synthase/dihydrofolate synthase [spotted fever group];TRINITY_DN7488_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: biotin synthase BioB [spotted fever group];TRINITY_DN2140_c0_g1_i1	0	1	8	13					
+Rickettsia buchneri;MULTISPECIES: branched-chain amino acid transaminase [spotted fever group];TRINITY_DN3656_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: cation transport regulator ChaB [spotted fever group];TRINITY_DN3179_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: chaperonin GroEL [spotted fever group];TRINITY_DN225_c0_g1_i1	0	2	7	12					
+Rickettsia buchneri;MULTISPECIES: citrate synthase [spotted fever group];TRINITY_DN2346_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: cysteine desulfurase [spotted fever group];TRINITY_DN5217_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: dihydroneopterin aldolase [spotted fever group];TRINITY_DN3056_c0_g1_i1	0	0	2	3					
+Rickettsia buchneri;MULTISPECIES: dihydropteroate synthase [spotted fever group];TRINITY_DN6544_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;MULTISPECIES: DNA replication/repair protein RecF [spotted fever group];TRINITY_DN6271_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: DNA-directed RNA polymerase subunit omega [Rickettsia];TRINITY_DN6105_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: DUF2497 domain-containing protein [Rickettsia];TRINITY_DN3803_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;MULTISPECIES: DUF2671 domain-containing protein [spotted fever group];TRINITY_DN6331_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: dUTP diphosphatase [spotted fever group];TRINITY_DN3319_c0_g1_i1	0	0	0	3					
+Rickettsia buchneri;MULTISPECIES: elongation factor Ts [spotted fever group];TRINITY_DN4572_c0_g1_i1	1	0	1	1					
+Rickettsia buchneri;MULTISPECIES: elongation factor Tu [spotted fever group];TRINITY_DN6423_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: F0F1 ATP synthase subunit alpha [spotted fever group];TRINITY_DN2692_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: glycosyltransferase [spotted fever group];TRINITY_DN2785_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: Grx4 family monothiol glutaredoxin [spotted fever group];TRINITY_DN2668_c0_g1_i1	0	0	2	4					
+Rickettsia buchneri;MULTISPECIES: GTP cyclohydrolase I FolE [Rickettsia];TRINITY_DN2627_c0_g1_i1	0	1	2	1					
+Rickettsia buchneri;MULTISPECIES: helix-turn-helix domain-containing protein [spotted fever group];TRINITY_DN5212_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;MULTISPECIES: Hsp20/alpha crystallin family protein [spotted fever group];TRINITY_DN6093_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: Hsp20/alpha crystallin family protein [spotted fever group];TRINITY_DN6108_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN1489_c0_g1_i1	0	0	2	6					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN2999_c0_g1_i1	0	0	3	1					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN3389_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN3793_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN4913_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN5049_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN5834_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN6363_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: hypothetical protein [spotted fever group];TRINITY_DN7673_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;MULTISPECIES: malate dehydrogenase [spotted fever group];TRINITY_DN5277_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: methionine--tRNA ligase [spotted fever group];TRINITY_DN6460_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: MFS transporter [spotted fever group];TRINITY_DN2992_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: molecular chaperone DnaK [spotted fever group];TRINITY_DN6635_c0_g1_i1	0	0	5	3					
+Rickettsia buchneri;MULTISPECIES: N-acetylmuramoyl-L-alanine amidase [spotted fever group];TRINITY_DN7298_c0_g1_i1	2	1	12	20					
+Rickettsia buchneri;MULTISPECIES: NAD(P) transhydrogenase subunit alpha [spotted fever group];TRINITY_DN2846_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: NAD(P) transhydrogenase subunit alpha [spotted fever group];TRINITY_DN6355_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: NAD-dependent epimerase/dehydratase family protein [spotted fever group];TRINITY_DN6849_c0_g1_i1	1	1	1	0					
+Rickettsia buchneri;MULTISPECIES: NADH-quinone oxidoreductase subunit G [spotted fever group];TRINITY_DN2799_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: nucleotide exchange factor GrpE [Rickettsia];TRINITY_DN7704_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: outer membrane protein assembly factor BamD [spotted fever group];TRINITY_DN5278_c0_g1_i1	0	0	3	1					
+Rickettsia buchneri;MULTISPECIES: palindromic element RPE1 domain-containing protein [spotted fever group];TRINITY_DN5587_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;MULTISPECIES: palindromic element RPE4 domain-containing protein [Rickettsia];TRINITY_DN4163_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: patatin [spotted fever group];TRINITY_DN4050_c0_g1_i1	1	0	2	1					
+Rickettsia buchneri;MULTISPECIES: patatin [spotted fever group];TRINITY_DN6029_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;MULTISPECIES: patatin [spotted fever group];TRINITY_DN7203_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: peptide deformylase [Rickettsia];TRINITY_DN7682_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;MULTISPECIES: peptidoglycan-associated lipoprotein Pal [spotted fever group];TRINITY_DN7398_c0_g1_i1	2	0	13	8					
+Rickettsia buchneri;MULTISPECIES: phosphatidylserine decarboxylase [spotted fever group];TRINITY_DN7368_c0_g1_i1	0	0	4	1					
+Rickettsia buchneri;MULTISPECIES: polyribonucleotide nucleotidyltransferase [spotted fever group];TRINITY_DN292_c0_g2_i1	0	0	4	3					
+Rickettsia buchneri;MULTISPECIES: porin [spotted fever group];TRINITY_DN3487_c0_g1_i1	0	0	3	5					
+Rickettsia buchneri;MULTISPECIES: porin family protein [spotted fever group];TRINITY_DN3486_c0_g1_i1	0	0	3	8					
+Rickettsia buchneri;MULTISPECIES: porin family protein [spotted fever group];TRINITY_DN3949_c0_g1_i1	0	0	6	7					
+Rickettsia buchneri;MULTISPECIES: proline--tRNA ligase [spotted fever group];TRINITY_DN3024_c0_g1_i1	0	0	3	0					
+Rickettsia buchneri;MULTISPECIES: protein-export chaperone SecB [spotted fever group];TRINITY_DN4533_c0_g1_i1	0	0	0	3					
+Rickettsia buchneri;MULTISPECIES: pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha [spotted fever group];TRINITY_DN7373_c0_g1_i1	0	0	4	0					
+Rickettsia buchneri;MULTISPECIES: pyruvate dehydrogenase complex E1 component subunit beta [spotted fever group];TRINITY_DN5599_c0_g1_i1	0	0	3	1					
+Rickettsia buchneri;MULTISPECIES: redox-regulated ATPase YchF [spotted fever group];TRINITY_DN4220_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;MULTISPECIES: ribonuclease PH [spotted fever group];TRINITY_DN5617_c0_g1_i1	0	0	0	0					
+Rickettsia buchneri;MULTISPECIES: ribosome recycling factor [Rickettsia];TRINITY_DN5511_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;MULTISPECIES: RNA polymerase sigma factor RpoD [spotted fever group];TRINITY_DN6959_c0_g1_i1	1	0	4	4					
+Rickettsia buchneri;MULTISPECIES: RNA polymerase sigma factor RpoH [spotted fever group];TRINITY_DN2702_c0_g1_i1	0	0	4	1					
+Rickettsia buchneri;MULTISPECIES: Rpn family recombination-promoting nuclease/putative transposase [spotted fever group];TRINITY_DN3692_c0_g1_i1	1	0	12	11					
+Rickettsia buchneri;MULTISPECIES: S9 family peptidase [spotted fever group];TRINITY_DN3712_c0_g1_i1	1	0	2	1					
+Rickettsia buchneri;MULTISPECIES: SDR family oxidoreductase [spotted fever group];TRINITY_DN6898_c0_g1_i1	0	0	2	3					
+Rickettsia buchneri;MULTISPECIES: serine hydroxymethyltransferase [spotted fever group];TRINITY_DN2981_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: succinate--CoA ligase subunit alpha [Rickettsia];TRINITY_DN5600_c0_g1_i1	0	0	2	3					
+Rickettsia buchneri;MULTISPECIES: SURF1 family protein [spotted fever group];TRINITY_DN6535_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: translational GTPase TypA [spotted fever group];TRINITY_DN5199_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: trigger factor [spotted fever group];TRINITY_DN5938_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;MULTISPECIES: type I DNA topoisomerase [spotted fever group];TRINITY_DN6020_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: type II toxin-antitoxin system Phd/YefM family antitoxin [spotted fever group];TRINITY_DN6799_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: type II toxin-antitoxin system RatA family toxin [spotted fever group];TRINITY_DN3763_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: type II toxin-antitoxin system VapC family toxin [spotted fever group];TRINITY_DN5144_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: type IV secretion system DNA-binding domain-containing protein [spotted fever group];TRINITY_DN6406_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;MULTISPECIES: type IV secretion system DNA-binding domain-containing protein [spotted fever group];TRINITY_DN83_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;MULTISPECIES: type IV secretion system DNA-binding domain-containing protein [spotted fever group];TRINITY_DN83_c0_g2_i1	1	0	4	2					
+Rickettsia buchneri;MULTISPECIES: UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [spotted fever group];TRINITY_DN5222_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;MULTISPECIES: UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing) [spotted fever group];TRINITY_DN5575_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;Na+/proline symporter and signal transduction histidine kinase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3447_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;Na+-H+-dicarboxylate symporter [Rickettsia prowazekii str. Breinl];TRINITY_DN6413_c0_g1_i1	0	0	3	0					
+Rickettsia buchneri;N-acetylmuramoyl-L-alanine amidase AmiD precursor [Rickettsia buchneri];TRINITY_DN7581_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;NAD-dependent epimerase/dehydratase family protein [Rickettsia aeschlimannii];TRINITY_DN2810_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;NADH-quinone oxidoreductase subunit C [Rickettsia tamurae];TRINITY_DN6352_c0_g1_i1	0	0	0	0					
+Rickettsia buchneri;NADH-quinone oxidoreductase subunit NuoF [Candidatus Rickettsia colombianensi];TRINITY_DN6967_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;nusA N-terminal domain protein [Rickettsia amblyommatis str. Ac/Pa];TRINITY_DN3401_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;OmpB partial [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2826_c0_g1_i1	0	0	4	8					
+Rickettsia buchneri;OmpB partial [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6306_c0_g1_i1	2	1	15	29					
+Rickettsia buchneri;outer membrane protein B partial [Rickettsia sp. InR/D372];TRINITY_DN3599_c0_g1_i1	2	0	15	28					
+Rickettsia buchneri;outer membrane protein OmpA partial [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN1660_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;outer membrane protein OmpA partial [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN7492_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;palindromic element RPE1 domain-containing protein [Rickettsia tamurae];TRINITY_DN225_c1_g1_i1	0	1	0	3					
+Rickettsia buchneri;Parvulin PPIase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6897_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;penicillin-binding protein 1A [Rickettsia montanensis];TRINITY_DN7026_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;permease family protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN6612_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;phospholipid-binding protein MlaC [Rickettsia buchneri];TRINITY_DN4448_c0_g1_i1	0	1	4	0					
+Rickettsia buchneri;phospho-N-acetylmuramoyl-pentapeptide-transferase partial [Candidatus Rickettsia colombianensi];TRINITY_DN3085_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;P-loop containing region of AAA domain protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN3069_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;polyribonucleotide nucleotidyltransferase [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN4715_c0_g1_i1	0	0	3	0					
+Rickettsia buchneri;polyribonucleotide nucleotidyltransferase putative partial [Ixodes scapularis];TRINITY_DN5880_c0_g1_i1	0	0	2	2					
+Rickettsia buchneri;proline/betaine transporter partial [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN5864_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;putative amino acid permease YhdG [Rickettsia monacensis];TRINITY_DN6334_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;putative ampG [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN292_c0_g3_i2	1	2	1	0					
+Rickettsia buchneri;Putative conjugative transfer protein TraD_F (plasmid) [Rickettsia felis URRWXCal2];TRINITY_DN6332_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;Putative transposase YhgA-like protein (plasmid) [Rickettsia buchneri];TRINITY_DN1948_c0_g1_i1	0	1	3	0					
+Rickettsia buchneri;Putative transposase YhgA-like protein (plasmid) [Rickettsia buchneri];TRINITY_DN1948_c0_g1_i2	0	0	3	0					
+Rickettsia buchneri;pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha [Rickettsia asembonensis];TRINITY_DN5876_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;RecA protein partial [Rickettsia montanensis];TRINITY_DN6253_c0_g1_i1	0	0	0	4					
+Rickettsia buchneri;RecName: Full=30S ribosomal protein S17;TRINITY_DN3356_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;RecName: Full=Elongation factor Tu;TRINITY_DN4724_c0_g1_i1	1	0	3	3					
+Rickettsia buchneri;reverse transcriptase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2384_c0_g1_i1	1	1	4	0					
+Rickettsia buchneri;ribonuclease HII [Rickettsia monacensis];TRINITY_DN3607_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;ribonucleotide-diphosphate reductase subunit beta [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN6292_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;ribosomal protein L7/L1 putative partial [Ixodes scapularis];TRINITY_DN3742_c0_g1_i1	1	0	2	4					
+Rickettsia buchneri;ribosome recycling factor [Rickettsia tamurae];TRINITY_DN3847_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;RIP metalloprotease RseP [Rickettsia felis str. Pedreira];TRINITY_DN5521_c0_g1_i1	1	0	2	2					
+Rickettsia buchneri;rod shape-determining protein [Rickettsia tamurae];TRINITY_DN6725_c0_g1_i1	1	0	2	1					
+Rickettsia buchneri;RPE1 domain protein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN5427_c0_g1_i1	1	0	0	1					
+Rickettsia buchneri;Rpn family recombination-promoting nuclease/putative transposase [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN1194_c0_g1_i1	1	0	3	5					
+Rickettsia buchneri;S49 family peptidase [Rickettsia tamurae];TRINITY_DN4183_c0_g1_i1	0	0	0	3					
+Rickettsia buchneri;secA DEAD-like domain protein [Rickettsia amblyommatis str. Darkwater];TRINITY_DN5757_c0_g1_i1	0	0	3	1					
+Rickettsia buchneri;sensory transduction histidine kinase putative partial [Ixodes scapularis];TRINITY_DN6698_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;seryl-tRNA synthetase putative partial [Ixodes scapularis];TRINITY_DN3558_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;seryl-tRNA synthetase putative partial [Ixodes scapularis];TRINITY_DN7703_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;sigma-54-dependent Fis family transcriptional regulator [Candidatus Rickettsia colombianensi];TRINITY_DN2660_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;signal recognition particle protein [Rickettsia aeschlimannii];TRINITY_DN4625_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;single-stranded DNA specific exonuclease RecJ putative partial [Ixodes scapularis];TRINITY_DN2781_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;surface antigen partial [Rickettsia raoultii];TRINITY_DN5324_c0_g1_i1	0	0	4	2					
+Rickettsia buchneri;Thioredoxin [Rickettsia felis URRWXCal2];TRINITY_DN5661_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;thioredoxin-dependent peroxide reductase putative partial [Ixodes scapularis];TRINITY_DN4445_c0_g1_i1	0	1	4	4					
+Rickettsia buchneri;Thymidylate synthase flavin-dependent [Rickettsia massiliae MTU5];TRINITY_DN7171_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;Tim44 domain-containing protein [Rickettsia gravesii];TRINITY_DN5930_c0_g1_i1	0	0	3	3					
+Rickettsia buchneri;Tim44 domain-containing protein [Rickettsia monacensis];TRINITY_DN5008_c0_g1_i1	0	1	2	1					
+Rickettsia buchneri;transcription elongation factor GreA [Rickettsia monacensis];TRINITY_DN5881_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;Transcriptional regulator [Rickettsia massiliae MTU5];TRINITY_DN6491_c0_g1_i1	0	0	3	2					
+Rickettsia buchneri;translation initiation factor IF-3 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN3517_c0_g1_i1	1	0	0	5					
+Rickettsia buchneri;transposase (plasmid) [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN5769_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;transposase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2035_c0_g1_i1	0	0	15	6					
+Rickettsia buchneri;transposase [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6861_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;transposase for insertion sequence element isrm3 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN4193_c0_g1_i1	0	0	0	2					
+Rickettsia buchneri;transposase IS4 family [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN5288_c0_g1_i1	0	0	1	1					
+Rickettsia buchneri;transposase Mutator family [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN7128_c0_g1_i1	0	0	5	2					
+Rickettsia buchneri;tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Rickettsia aeschlimannii];TRINITY_DN2496_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;tRNA (guanine(37)-N(1))-methyltransferase [Rickettsia amblyommatis str. Ac/Pa];TRINITY_DN4796_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;tRNA 2-thiouridine(34) synthase MnmA [Rickettsia tamurae];TRINITY_DN5694_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;tRNA pseudouridine(55) synthase TruB [Rickettsia helvetica];TRINITY_DN3633_c0_g1_i1	0	0	1	0					
+Rickettsia buchneri;tRNA synthetases class II family protein [Rickettsia amblyommatis str. Darkwater];TRINITY_DN4772_c0_g1_i1	0	0	1	2					
+Rickettsia buchneri;type II toxin-antitoxin system RelE/ParE family toxin [Rickettsia monacensis];TRINITY_DN5964_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;tyrosine--tRNA ligase [Rickettsia monacensis];TRINITY_DN7289_c0_g1_i1	0	0	0	1					
+Rickettsia buchneri;UbiH protein [Rickettsia prowazekii str. GvF12];TRINITY_DN4069_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;UbiX family flavin prenyltransferase [Rickettsia buchneri];TRINITY_DN2758_c0_g1_i1	0	0	1	3					
+Rickettsia buchneri;unknown [Rickettsia conorii str. Malish 7];TRINITY_DN5291_c0_g1_i1	3	0	1	3					
+Rickettsia buchneri;unknown [Rickettsia felis URRWXCal2];TRINITY_DN2609_c0_g1_i1	0	0	5	2					
+Rickettsia buchneri;Unknown;TRINITY_DN5790_c0_g1_i1	0	0	4	2					
+Rickettsia buchneri;VacJ family lipoprotein [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN4973_c0_g1_i1	0	0	2	0					
+Rickettsia buchneri;VacJ family lipoprotein [Rickettsia parkeri];TRINITY_DN3294_c0_g1_i1	1	0	1	1					
+Rickettsia buchneri;valine--tRNA ligase [Rickettsia tamurae];TRINITY_DN7487_c0_g1_i1	0	0	2	1					
+Rickettsia buchneri;WD40-like Beta Propeller Repeat family protein [Rickettsia parkeri str. Grand Bay];TRINITY_DN3905_c0_g1_i1	0	0	1	0					
+Rickettsia endosymbiont of Ixodes pacificus;0;TRINITY_DN5720_c0_g1_i1	0	0	2	0					
+Rickettsia endosymbiont of Ixodes pacificus;hypothetical protein REIP_p650 (plasmid) [Rickettsia endosymbiont of Ixodes pacificus];TRINITY_DN6628_c0_g1_i1	0	0	0	0					
+Rickettsia endosymbiont of Ixodes scapularis;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN2718_c0_g1_i1	0	2	0	0					
+Rickettsia endosymbiont of Ixodes scapularis;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN7173_c0_g1_i1	0	0	0	1					
+Rickettsia endosymbiont of Ixodes scapularis;hypothetical protein [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN7295_c0_g1_i1	0	0	0	1					
+Rickettsia parkeri;hypothetical protein [Rickettsia parkeri];TRINITY_DN7461_c0_g1_i1	0	0	2	2					
+Rickettsia parkeri;hypothetical protein REIS_1590 [Rickettsia endosymbiont of Ixodes scapularis];TRINITY_DN6952_c0_g1_i1	0	0	1	2					
+Sphingomonas sp. PAMC26645;hypothetical protein Cva_01534 [Caedimonas varicaedens];TRINITY_DN2596_c0_g1_i1	0	0	0	0					
+Sphingomonas sp. TF3;MULTISPECIES: DUF4118 domain-containing protein [unclassified Sphingomonas];TRINITY_DN5121_c0_g1_i1	2	0	0	0					
+Tsukamurella paurometabola;MULTISPECIES: elongation factor Tu [Williamsia];TRINITY_DN5388_c0_g1_i1	2	0	0	0					
+Acidomyces richmondensis;hypothetical protein FE78DRAFT_166818 [Acidomyces richmondensis];TRINITY_DN7379_c0_g1_i1	0	0	0	1					
+Albugo laibachii;0;TRINITY_DN688_c0_g1_i1	2	0	0	0					
+Albugo laibachii;0;TRINITY_DN688_c0_g1_i2	2	0	0	0					
+Albugo laibachii;Unknown;TRINITY_DN154_c0_g1_i2	0	1	4	1					
+Albugo laibachii;Unknown;TRINITY_DN688_c0_g1_i3	1	0	5	0					
+Alternaria solani;0;TRINITY_DN771_c0_g2_i1	0	0	0	0					
+Alternaria solani;ras-like protein [Alternaria alternata];TRINITY_DN867_c0_g1_i2	1	1	2	0					
+Annulohypoxylon stygium;0;TRINITY_DN3160_c0_g1_i1	0	0	4	0					
+Aureobasidium pullulans;hypothetical protein E2P81_ATG10180 [Venturia nashicola];TRINITY_DN3646_c0_g1_i1	1	0	0	0					
+Aureobasidium subglaciale;mitochondrial atp synthase epsilon chain domain-containing protein partial [Colletotrichum incanum];TRINITY_DN4242_c0_g1_i1	1	0	1	0					
+Babesia divergens;histone H3 [Babesia microti strain RI];TRINITY_DN4810_c0_g1_i1	0	1	1	0					
+Babesia divergens;Unknown;TRINITY_DN234_c0_g1_i1	0	5	4	0					
+Babesia divergens;Unknown;TRINITY_DN246_c0_g1_i1	0	7	11	8					
+Babesia divergens;Unknown;TRINITY_DN2779_c0_g1_i1	0	14	32	9					
+Babesia odocoilei;0;TRINITY_DN167_c0_g1_i1	0	1	2	0					
+Baudoinia panamericana;hypothetical protein BAUCODRAFT_311185 [Baudoinia panamericana UAMH 10762];TRINITY_DN5491_c0_g1_i1	1	0	1	0					
+Baudoinia panamericana;NADH-ubiquinone oxidoreductase 51 kDa subunit mitochondrial [Rachicladosporium sp. CCFEE 5018];TRINITY_DN4359_c0_g1_i1	1	0	1	0					
+Capitella teleta;hypothetical protein CAPTEDRAFT_199502 [Capitella teleta];TRINITY_DN6126_c0_g1_i1	0	0	1	1					
+Capitella teleta;hypothetical protein CAPTEDRAFT_228035 [Capitella teleta];TRINITY_DN1683_c0_g1_i1	0	1	1	0					
+Chilodonella piscicola;Unknown;TRINITY_DN2951_c0_g1_i1	0	10	0	0					
+Chlamydomonas reinhardtii;0;TRINITY_DN5304_c0_g1_i1	0	0	0	1					
+Cryptococcus wingfieldii;0;TRINITY_DN5197_c0_g1_i1	0	2	1	0					
+Didymella pinodes;0;TRINITY_DN2074_c0_g1_i1	0	0	3	0					
+Dothistroma septosporum;hypothetical protein DOTSEDRAFT_68567 [Dothistroma septosporum NZE10];TRINITY_DN4926_c0_g1_i1	0	1	0	0					
+Exserohilum turcicum;structural constituent of ribosome [Ascochyta rabiei];TRINITY_DN3457_c0_g1_i1	0	0	1	0					
+Hannaella oryzae;0;TRINITY_DN6664_c0_g1_i1	0	0	2	0					
+Hortaea werneckii;hypothetical protein D0864_00250 [Hortaea werneckii];TRINITY_DN45_c0_g1_i1	0	3	3	0					
+Monilinia fructigena;hypothetical protein DID88_008100 [Monilinia fructigena];TRINITY_DN2844_c0_g1_i1	0	3	0	0					
+Parastagonospora nodorum;0;TRINITY_DN771_c0_g1_i1	0	0	0	0					
+Parastagonospora nodorum;inorganic pyrophosphatase [Stagonospora sp. SRC1lsM3a];TRINITY_DN5589_c0_g1_i1	0	0	0	1					
+Pristionchus pacificus;Carbohydrate-binding protein partial [Pristionchus pacificus];TRINITY_DN28_c0_g1_i10	0	56	1	0					
+Pristionchus pacificus;Carbohydrate-binding protein partial [Pristionchus pacificus];TRINITY_DN28_c0_g1_i8	0	19	0	0					
+Pseudocercospora mori;0;TRINITY_DN1299_c0_g2_i1	0	0	2	0					
+Pseudocercospora mori;Unknown;TRINITY_DN6922_c0_g1_i1	0	0	3	2					
+Pseudocercospora musae;hypothetical protein AC579_7067 [Pseudocercospora musae];TRINITY_DN3019_c0_g1_i1	0	1	1	0					
+Ramularia collo-cygni;hypothetical protein D0867_00590 [Hortaea werneckii];TRINITY_DN6479_c0_g1_i1	0	1	1	0					
+Rutstroemia sp. NJR-217a WRK4;peptidase family M28 protein [Rutstroemia sp. NJR-2017a WRK4];TRINITY_DN6830_c0_g1_i1	0	2	0	0					
+Sodiomyces alkalinus;DNase1 protein [Sodiomyces alkalinus F11];TRINITY_DN5556_c0_g1_i1	0	0	3	0					
+Sphaerulina musiva;40S ribosomal protein S27 [Elsinoe australis];TRINITY_DN3931_c0_g1_i1	0	0	0	0					
+Stagonospora sp. SRC1lsM3a;hypothetical protein IQ06DRAFT_258868 [Stagonospora sp. SRC1lsM3a];TRINITY_DN4790_c0_g1_i1	0	0	1	1					
+Stemphylium lycopersici;hypothetical protein Glove_991g2 [Diversispora epigaea];TRINITY_DN1299_c0_g1_i1	1	3	5	1					
+Venturia nashicola;hypothetical protein E2P81_ATG10180 [Venturia nashicola];TRINITY_DN5476_c0_g1_i1	0	0	1	1					
+Verticillium alfalfae;hypothetical protein D0864_11974 partial [Hortaea werneckii];TRINITY_DN5002_c0_g1_i1	0	0	2	0					
+Blacklegged tick phlebovirus 1;L protein [Blacklegged tick phlebovirus 1];TRINITY_DN224_c1_g1_i2	1	15	7	0					
+Blacklegged tick phlebovirus 1;L protein [Blacklegged tick phlebovirus 1];TRINITY_DN9_c0_g1_i5	87	220	1780	1186					
+Blacklegged tick phlebovirus 1;N protein [Blacklegged tick phlebovirus 1];TRINITY_DN2_c0_g1_i3	6	19	90	434					
+Blacklegged tick phlebovirus 1;N protein [Blacklegged tick phlebovirus 1];TRINITY_DN3_c0_g1_i1	21	41	137	490					
+Blacklegged tick phlebovirus 2;L protein [Blacklegged tick phlebovirus 2];TRINITY_DN7_c0_g1_i4	66	160	0	304					
+Blacklegged tick phlebovirus 2;L protein [Blacklegged tick phlebovirus 2];TRINITY_DN8_c0_g1_i7	47	88	0	154					
+Blacklegged tick phlebovirus 2;L protein [Blacklegged tick phlebovirus 2];TRINITY_DN9_c0_g2_i1	94	236	0	297					
+Blacklegged tick phlebovirus 2;L protein [Blacklegged tick phlebovirus 2];TRINITY_DN9_c1_g1_i1	13	41	0	30					
+Blacklegged tick phlebovirus 2;N protein [Blacklegged tick phlebovirus 2];TRINITY_DN3_c0_g2_i2	36	166	0	48					
+Blacklegged tick phlebovirus 2;nucleocapsid partial [Blacklegged tick phlebovirus 2];TRINITY_DN2_c0_g1_i2	20	101	0	87					
+Blacklegged tick rhabdovirus-1;N [Blacklegged tick rhabdovirus-1];TRINITY_DN3645_c0_g1_i1	0	1	0	1					
+Chimay rhabdovirus;N protein [Chimay rhabdovirus];TRINITY_DN6956_c0_g1_i1	3	1	4	7					
+Ixodes scapularis associated virus 1;hypothetical protein partial [Ixodes scapularis associated virus 1];TRINITY_DN55_c0_g1_i1	48	0	117	65					
+Ixodes scapularis associated virus 2;hypothetical protein partial [Ixodes scapularis associated virus 2];TRINITY_DN3471_c0_g1_i1	0	0	0	570					
+Ixodes scapularis associated virus 3;hypothetical protein partial [Ixodes scapularis associated virus 3];TRINITY_DN43_c0_g1_i1	57	1	95	40					
+South Bay virus;L protein [South Bay virus];TRINITY_DN1_c0_g1_i4	1717	3164	13932	4830					
+South Bay virus;N protein [South Bay virus];TRINITY_DN0_c1_g1_i1	4757	5980	15603	4298					
+Suffolk mivirus;ORF3 [Suffolk virus];TRINITY_DN7088_c0_g1_i1	0	0	3	0					
+Suffolk mivirus;putative glycoprotein [Suffolk virus];TRINITY_DN2681_c0_g1_i1	0	1	1	0					
