@@ -1,7 +1,0 @@
-{
-    "installOptions" : {
-        "installDependencies" : false,
-        "installFromRepository" : true,
-        "libraryPath" : "C:/Users/ap180/Documents/R/R-4.1.1/library"
-    }
-}
