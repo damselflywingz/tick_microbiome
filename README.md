@@ -153,7 +153,7 @@ Amber Paulson - <a href="https://twitter.com/dragonflywingz" target="_blank">@Dr
 
 Project Link: [https://github.com/damselflywingz/tick_microbiome](https://github.com/damselflywingz/tick_microbiome)
 
-Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND) [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Licensed under Creative Commons Attribution 4.0 International (CC-BY 4.0) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
