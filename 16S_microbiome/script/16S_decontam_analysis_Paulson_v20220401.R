@@ -9,7 +9,7 @@
 ## Date Created: 2021-10-08
 ## Date updated: 2022-08-09
 ##
-## Copyright (c) Amber Paulson, 2022
+##
 ## Email: Amber.Rose.Paulson@gmail.com
 ## Github: https://github.com/damselflywingz
 ##
