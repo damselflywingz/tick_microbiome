@@ -4,7 +4,7 @@
 ##
 ## Purpose of script: Generates a heatmap of log2CPM expression from meta-transcriptome data
 ##
-## Author: Dr. Amber Paulson
+## Author: Dr. Amber R Paulson
 ##
 ## Date Created: 2022-11-07
 ##
