@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This README provides scripts and other resources used to analyze 16S rRNA sequencing from the microbiome of the blacklegged tick, <i>Ixodes scapularis</i> - see Preprint Paulson A.R., Lougheed, S.C., Huang, D., and Colautti, R.I. 2022. Multi-omics analysis identifies symbionts and pathogens of blacklegged ticks (<i>Ixodes scapularis</i>) from a Lyme disease hotspot in southeastern Ontario, Canada.
 
-https://doi.org/10.1101/2022.11.09.515820
+<a href="https://doi.org/10.1101/2022.11.09.515820" target="_blank">https://doi.org/10.1101/2022.11.09.515820</a> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
