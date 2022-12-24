@@ -2,7 +2,8 @@
 ##
 ## Script name: 16S_decontam_analysis_Paulson_v20220401
 ##
-## Purpose: This is an R script used to analyze 16S rRNA sequencing from the microbiome of the blacklegged tick, <i>Ixodes scapularis</i> - see Pre-print: Paulson A.R., Lougheed, S.C., Huang, D., and Colautti, R.I. 2022. Evidence for symbionts and pathogens of blacklegged ticks (<i>Ixodes scapularis</i>) in an emerging Lyme disease hotspot. ##Preprint - webpage link to be added##
+## Purpose: This is an R script used to analyze 16S rRNA sequencing from the microbiome of the blacklegged tick, <i>Ixodes scapularis</i> - see Pre-print: Paulson A.R., Lougheed, S.C., Huang, D., and Colautti, R.I. 2022. Evidence for symbionts and pathogens of blacklegged ticks (<i>Ixodes scapularis</i>) in an emerging Lyme disease hotspot, https://doi.org/10.1101/2022.11.09.515820.
+
 ##
 ## Author: Amber R. Paulson, Ph.D.
 ##
