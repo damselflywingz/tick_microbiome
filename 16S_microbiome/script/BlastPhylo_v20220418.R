@@ -2,7 +2,7 @@
 ##
 ## Script name: BlastPhylo_v20220418
 ##
-## Purpose: This is an R script used for local BLAST search against NCBI's 16S rRNA sequences (Bacteria and Archaea) and optimized phylogeny builder - see Pre-print: Paulson A.R., Huang, D., and Colautti, R.I. 2021. Evidence for symbionts and pathogens of blacklegged ticks (<i>Ixodes scapularis</i>) in an emerging Lyme disease hotspot. ##Preprint - webpage link to be added##
+## Purpose: This is an R script used for local BLAST search against NCBI's 16S rRNA sequences (Bacteria and Archaea) and optimized phylogeny builder - see Pre-print: Paulson A.R., Huang, D., and Colautti, R.I. 2021. Evidence for symbionts and pathogens of blacklegged ticks (<i>Ixodes scapularis</i>) in an emerging Lyme disease hotspot. https://www.biorxiv.org/content/10.1101/2022.11.09.515820v1
 ##
 ## Author: Functions by David Huang
 ##
